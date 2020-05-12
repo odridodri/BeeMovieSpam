@@ -83,4 +83,4 @@ async def on_message(message):
             continue
         
             
-client.run('NzA5NTAyNTUyNTI5NDM2NzQ0.XrnwrQ.RSRT4JZ8UF2g5fH0mUqC6gidl-g') #my bot ID is in the string
+client.run('<BOT_TOKEN>') 
